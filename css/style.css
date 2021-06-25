@@ -54,3 +54,9 @@ header{
   width: calc(70% - 20px);
   margin: 0 10px 10px;
 }
+
+footer{
+  height: 50px;
+  background-color: #8801fe;
+  margin-top: 5px;
+}
