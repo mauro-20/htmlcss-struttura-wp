@@ -11,3 +11,13 @@
   display: table;
   clear: both;
 }
+
+.container{
+  width: 80%;
+  margin: 20px auto;
+}
+
+header{
+  background-color: #e579e6 ;
+  height: 100px;
+}
